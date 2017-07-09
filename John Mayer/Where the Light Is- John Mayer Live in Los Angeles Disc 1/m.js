@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Neon [Acoustic Set].mp3";		
+f[2]	= "02 Stop This Train [Acoustic Set].mp3";		
+f[3]	= "03 In Your Atmosphere [Acoustic Set].mp3";		
+f[4]	= "04 Daughters [Acoustic Set].mp3";		
+f[5]	= "05 Free Fallin' [Acoustic Set].mp3";		
+f[6]	= "06 Everyday I Have the Blues [Trio Set].mp3";		
+f[7]	= "07 Wait Until Tomorrow [Trio Set].mp3";		
+f[8]	= "08 Who Did You Think I Was [Trio Set].mp3";		
+f[9]	= "09 Come When I Call [Trio Set].mp3";		
+f[10]	= "10 Good Love Is on the Way [Trio Set].mp3";		
+f[11]	= "11 Out of My Mind [Trio Set].mp3";		
+f[12]	= "12 Vultures [Trio Set].mp3";		
+f[13]	= "13 Bold as Love [Trio Set].mp3";		

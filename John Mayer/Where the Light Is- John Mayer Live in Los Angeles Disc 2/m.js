@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Waiting on the World to Change [Band Set].mp3";		
+f[2]	= "02 Slow Dancing in a Burning Room [Band Set].mp3";		
+f[3]	= "03 Why Georgia [Band Set].mp3";		
+f[4]	= "04 The Heart of Life [Band Set].mp3";		
+f[5]	= "05 I Don't Need No Doctor [Band Set].mp3";		
+f[6]	= "06 Gravity [Band Set].mp3";		
+f[7]	= "07 I Don't Trust Myself (With Loving You) [Band Set].mp3";		
+f[8]	= "08 Belief [Band Set].mp3";		
+f[9]	= "09 I'm Gonna Find Another You [Band Set].mp3";		
