@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/m38/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/m38/edit/master/README.md)
 
 [Elton John/Rocket Man- Number Ones](Elton John/Rocket Man- Number Ones)
 
@@ -9,3 +9,6 @@
 [John Mayer/Where the Light Is- John Mayer Live in Los Angeles Disc 1](John Mayer/Where the Light Is- John Mayer Live in Los Angeles Disc 1)
 
 [John Mayer/Where the Light Is- John Mayer Live in Los Angeles Disc 2](John Mayer/Where the Light Is- John Mayer Live in Los Angeles Disc 2)
+
+
+[Kidz Bop Kids/Kidz Bop Halloween Party](Kidz Bop Kids/Kidz Bop Halloween Party)
