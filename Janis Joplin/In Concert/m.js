@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Down on Me.mp3";		
+f[2]	= "02 Bye Bye Baby.mp3";		
+f[3]	= "03 All Is Loneliness.mp3";		
+f[4]	= "04 Piece of My Heart.mp3";		
+f[5]	= "05 Road Block.mp3";		
+f[6]	= "06 Flower in the Sun.mp3";		
+f[7]	= "08 Ego Rock.mp3";		
+f[8]	= "09 Half Moon.mp3";		
+f[9]	= "10 Kozmic Blues.mp3";		
+f[10]	= "11 Move Over.mp3";		
+f[11]	= "12 Try (Just a Little Bit Harder).mp3";		
+f[12]	= "13 Get It While You Can.mp3";		
+f[13]	= "14 Ball and Chain.mp3";		
+f[14]	= "Summertime.mp3";		
